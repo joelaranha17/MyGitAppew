@@ -15,10 +15,5 @@ public class MainActivity extends AppCompatActivity {
     {
 
     }
-        //Intent intent =
-             //   new Intent(
-                 //       this,
-                   //     MySubActivity.class );
-
-        //startActivityForResult( intent, MY_REQUEST_CODE );
-    }
+    int i=0;
+}
